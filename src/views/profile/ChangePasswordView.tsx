@@ -99,7 +99,7 @@ const ChangePasswordView = () => {
 
           <input
             type="submit"
-            value='Cambiar Password'
+            value='Cambiar Contraseña'
             className="bg-fuchsia-600 w-full p-3 text-white uppercase font-bold hover:bg-fuchsia-700 cursor-pointer transition-colors"
           />
         </form>
