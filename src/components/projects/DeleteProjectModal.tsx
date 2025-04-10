@@ -39,8 +39,6 @@ const DeleteProjectModal = () => {
         }
     });
 
-
-
     const handleForm = async (formData: CheckPasswordForm) => {
         await checkUserPasswordMutation.mutateAsync(formData);
         await deleteProjectMutation.mutateAsync(deleteProjectId)
