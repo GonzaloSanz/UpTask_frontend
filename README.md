@@ -4,4 +4,4 @@ Realizado con Vite, React.js, React Query, React Hook Form, TypeScript, Zod y Ta
 
 Backend: https://github.com/GonzaloSanz/UpTask_backend
 
-https://uptask-gonzalosanz.vercel.app/
+Sitio Web: https://uptask-gonzalosanz.vercel.app/
