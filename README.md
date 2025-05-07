@@ -3,5 +3,3 @@
 Realizado con Vite, React.js, React Query, React Hook Form, TypeScript, Zod y Tailwind CSS.
 
 Backend: https://github.com/GonzaloSanz/UpTask_backend
-
-Sitio Web: https://uptask-gonzalosanz.vercel.app/
